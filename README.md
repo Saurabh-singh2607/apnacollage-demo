@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository
 <br>
-Auther - Saurabh Singh
+Auther - Saurabh (Apna Collage)
